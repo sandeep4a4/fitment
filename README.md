@@ -14,6 +14,13 @@ Have an aesthestically pleasing visual design and architecture.
 Has collection of many web pages including Home,About us, Contact,Menu,fitment topics and fitment related information etc.
 User can know about fitment information through this website.
 Included the feedback survey form to increase the scope of improvement
+
+
+
+TEAM MEMBERS DETAILS
+TEAM MEMBER NAME - [KALLA SANDEEP] 
+TEAM MEMBER NAME - [KOLATI SATYA SHIVANI] LINK :- https://github.com/Satyashivani05/fit
+TEAM MEMBER NAME - [MEGHA PRAJAPAT] LINK :- https://github.com/Meghaprajapat/fit
 Screenshots
 About Us -
 screenshot about us
