@@ -3,7 +3,7 @@ This is a web based application developed for life style related based website i
 
 This web based life style application has been developed for the accomplishment of Future Ready Talent Intership program launched by microsoft,Future Skills prime,quess,github and EY.
 
-Project Link - 
+Project Link - https://myprojectr.z7.web.core.windows.net/
 
 project demo link- 
 
