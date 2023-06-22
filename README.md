@@ -5,7 +5,7 @@ This web based life style application has been developed for the accomplishment 
 
 Project Link - https://myprojectr.z7.web.core.windows.net/
 
-project demo link- 
+project demo link- https://youtu.be/H9w20Kc5LbQ
 
 Features and Functionalities
 Interactive and responsive UI.
